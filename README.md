@@ -341,7 +341,6 @@ The Fleming Mesh routing protocol enforces a **MANDATORY 70-20-10 distribution m
 6. **On-Chain Distribution Compliance Mechanism** (70-20-10 Rule)
 7. *(Additional 3 patents in strategic protection phase)*
 
-**Full Details:** See [`legal/Patent_Strategy.md`](legal/Patent_Strategy.md), [`legal/Fleming_Mesh_Distribution_License.md`](legal/Fleming_Mesh_Distribution_License.md), and [`STATUTORY_NOTICE.md`](STATUTORY_NOTICE.md)
 
 ### Attribution Requirements
 
