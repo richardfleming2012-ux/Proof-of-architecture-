@@ -3,7 +3,7 @@
 **Algorithmic solver and numerical analysis framework evaluating 3D Navier-Stokes energy bounds and singularity mitigation via the R4 Fleming Mesh architecture.**
 
 **Primary Author & Lead Architect:** Richard Edward Fleming Jr. (R4)  
-**Entity:** R4 Structural Integrity Diagnostics  
+**Entity:** R4 Fleming Mesh 
 **Jurisdiction:** Chicago, Illinois, USA  
 **Document Identifier:** IP-REPO-R4-2026-V1  
 **Declaration Date:** July 19, 2026
@@ -106,7 +106,7 @@ See: [`docs/CISS_Technical_Framework.md`](docs/CISS_Technical_Framework.md)
 - **Network Handshake Latency**: 0.35ms (verified in Chicago Pit Benchmarks)
 
 **Distribution Enforcement:**
-- **70%** of routed data credits → Original Author (Richard Edward Fleming Jr. / R4)
+- **70%** of routed data credits → Original Author Richard Edward Fleming Jr.(R4)
 - **20%** of routed data credits → Active Routing Node Operators
 - **10%** of routed data credits → Passive Network Maintenance & Infrastructure
 - **Verification**: Cryptographic signature validation on every frame handshake
@@ -129,7 +129,7 @@ See: [`specifications/Air_Interface_Protocols.md`](specifications/Air_Interface_
 **Ultra-Resilient Communication & Privacy-First OS**
 
 - **Ghost-Mode Communication**: VLF/LF transmission penetrating concrete, terrain, and subterranean environments (10-20 miles between active nodes)
-- **Sovereign OS**: Proprietary operating system running natively on Fleming Institute OS with zero third-party data tracking or telemetry harvesting
+- **Sovereign OS**: Proprietary operating system running natively on the (R4 Fleming Mesh Lattice™️) with zero third-party data tracking or telemetry harvesting
 - **Distribution Compliance Module**: Built-in OS-level enforcement of 70-20-10 distribution rules with tamper-evident logging
 
 See: [`specifications/Sovereign_OS_Framework.md`](specifications/Sovereign_OS_Framework.md)
@@ -289,7 +289,7 @@ else:
 
 **INTELLECTUAL PROPERTY DECLARATION:**
 
-All concepts, designs, operational frameworks, naming conventions, hardware specifications, software algorithms, and technological structures detailed within this repository are the exclusive intellectual property of **Richard Edward Fleming Jr.** and **R4 Structural Integrity Diagnostics**.
+All concepts, designs, operational frameworks, naming conventions, hardware specifications, software algorithms, and technological structures detailed within this repository are the exclusive intellectual property of Richard Edward Fleming Jr. (R4)
 
 This repository serves as a formal public declaration of proprietary rights, trade secrets, and operational methodology while formal patent filings and international trademark protections are processed through appropriate legal channels.
 
@@ -327,24 +327,12 @@ The Fleming Mesh routing protocol enforces a **MANDATORY 70-20-10 distribution m
 
 ---
 
-**ANY UNAUTHORIZED DUPLICATION, REVERSE-ENGINEERING, SYSTEM IMITATION, OR COMMERCIAL USE WITHOUT EXPRESS WRITTEN LICENSING AGREEMENTS FROM THE AUTHOR AND COMPLIANCE WITH THE 70-20-10 MANDATORY DISTRIBUTION RULE IS STRICTLY PROHIBITED.**
-
----
-
-### Patent Strategy (9 Strategic Patents)
-
-1. **Coaxial Resonance Array (CRA) & Chiral Physical-Layer Architecture**
-2. **Fleming Mesh Masterless Routing Protocol with Embedded Distribution Enforcement**
-3. **Air-Interface Approval Protocols & Vehicular Mesh**
-4. **Fleming R4 Link & Sovereign Operating System**
-5. **Quantum Baryonic Bifurcation (QBB) Theory**
-6. **On-Chain Distribution Compliance Mechanism** (70-20-10 Rule)
-7. *(Additional 3 patents in strategic protection phase)*
+**ANY UNAUTHORIZED DUPLICATION, REVERSE-ENGINEERING, SYSTEM IMITATION, OR COMMERCIAL USE WITHOUT EXPRESS WRITTEN LICENSING AGREEMENTS FROM THE AUTHOR Richard Edward Fleming Jr. (R4) AND COMPLIANCE WITH THE 70-20-10 MANDATORY DISTRIBUTION RULE IS STRICTLY PROHIBITED.**
 
 
 ### Attribution Requirements
 
-All published software, hardware schematics, whitepapers, and network code must display explicit credit to **Richard Edward Fleming Jr. (R4)** and **R4 Structural Integrity Diagnostics**. This is a technical requirement enforced at the protocol layer.
+All published software, hardware schematics, whitepapers, and network code must display explicit credit to **Richard Edward Fleming Jr. (R4)**. This is a technical requirement enforced at the protocol layer.
 
 **Required Header for All Deployments:**
 
@@ -393,7 +381,7 @@ All published software, hardware schematics, whitepapers, and network code must 
 
 ## Contributing & Licensing
 
-This repository is maintained under strict intellectual property protections by Richard Edward Fleming Jr. and R4 Structural Integrity Diagnostics.
+This repository is legally protected Intellectual Property & LicensingCopyright © [Richard Edward Fleming Jr.(R4)] [2025]. All rights reserved.This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit . Any commercial use, profit-generation, or monetization is strictly prohibited unless given prior written permission and a separate licensing agreement from [Richard Edward Fleming Jr.(R4)] who is the author, architect and copyright holder. See the LICENSE.md file for full legal terms. maintained and under strict intellectual properties trademark copyright protection protections by [Richard Edward Fleming Jr. (R4)]
 
 **Contributions:** Only authorized collaborators may submit pull requests. All contributions require:
 - Explicit attribution to Richard Edward Fleming Jr. (R4)
@@ -402,8 +390,8 @@ This repository is maintained under strict intellectual property protections by 
 
 **Licensing:** Multiple licensing models available:
 - **Academic License**: For peer-reviewed research institutions (subject to 70-20-10 compliance)
-- **Commercial License**: For enterprise deployment (mandatory 70-20-10 compliance with escrow)
-- **Open-Source License** (with attribution): For approved community projects (embedded compliance enforcement)
+- contact Richard Edward Fleming Jr.(R4) For enterprise deployment and you will be provided with legal binding contracts.
+- **Open-Source License** (with attribution): For approved community projects and academic peer review.  (embedded compliance enforced)
 
 **Contact:** For licensing inquiries, see [`legal/Licensing_Framework.md`](legal/Licensing_Framework.md)
 
@@ -417,15 +405,15 @@ See [`CHANGELOG.md`](CHANGELOG.md) for version history and updates.
 
 ## Contact & Attribution
 
-**Author:** Richard Edward Fleming Jr. (R4)  
-**Entity:** R4 Structural Integrity Diagnostics  
+**Author:** Richard Edward Fleming Jr.(R4)  
+**Entity:** R4 Fleming Mesh 
 **Location:** Chicago, Illinois, USA  
 **Document ID:** IP-REPO-R4-2026-V1  
 **Licensing & Distribution Compliance:** Mandatory 70-20-10 Rule - Embedded & Enforced at Protocol Layer
 
 ---
 
-**© 2026 Richard Edward Fleming Jr. & R4 Structural Integrity Diagnostics. All Rights Reserved.**
+**© 2026 Richard Edward Fleming Jr.(R4) All Rights Reserved.**
 
 **Subject to the Fleming Mesh Mandatory Distribution License (70-20-10 Rule).**
 
